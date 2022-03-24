@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">برنامجي</string>
+    <string name="welcome">مرحبا</string>
+    <string name="hello">مرحبا</string>
+    <string name="username">مستخدم</string>
+    <string name="password">كلمة المرور</string>
+    <string name="login">دخول</string>
+</resources>

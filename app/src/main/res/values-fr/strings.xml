@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">mon application</string>
+    <string name="welcome">bienvenue</string>
+    <string name="hello">Salut</string>
+    <string name="username">utilisateur</string>
+    <string name="password">mot de passe</string>
+    <string name="login">se connecter</string>
+</resources>
